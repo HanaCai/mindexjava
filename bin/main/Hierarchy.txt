@@ -1,0 +1,14 @@
+
+
+                John Lennon
+                /          \
+    Paul McCartney           Ringo Starr
+                              /      \
+                         Pete Best  George Harrison
+                                       /     \
+                                    Summy    Jacob
+                                    /   \
+                                Simons  Rooster
+
+Total Employees working under John = 8
+DirectReports = 2
